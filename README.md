@@ -14,8 +14,8 @@
 <p>The dataset used for this project consists of images that represent different object classes. Below are some sample images from the dataset:</p>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="dataset_image1.png" alt="Dataset Image 1" width="400" height="300">
-  <img src="dataset_image2.png" alt="Dataset Image 2" width="400" height="300">
+  <img src="images/Dataset Define.png" alt="Dataset Image 1" width="400" height="300">
+  <img src="images/KNN Example Data.png" alt="Dataset Image 2" width="400" height="300">
 </div>
 
 <p>Each class has been carefully labeled to ensure accurate training for object detection.</p>
