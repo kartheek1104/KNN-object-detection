@@ -1,6 +1,6 @@
 <h1 align="center">KNN Object Detection</h1>
 
-<p>This project implements a K-Nearest Neighbors (KNN) algorithm for object detection, designed to classify objects within an image or video stream by comparing pixel feature vectors to a labeled dataset. The system scans an image using sliding windows, extracting features from each region and determining the object's class based on its K-nearest neighbors from the training set. The model only labels detected objects, ensuring minimal interference with non-object regions. Customizable parameters like the number of neighbors and window size allow for fine-tuning the detection accuracy. The project supports real-time video and image-based classification, making it versatile for various applications.</p>
+<p style="text-align: justify;">This project implements a K-Nearest Neighbors (KNN) algorithm for object detection, designed to classify objects within an image or video stream by comparing pixel feature vectors to a labeled dataset. The system scans an image using sliding windows, extracting features from each region and determining the object's class based on its K-nearest neighbors from the training set. The model only labels detected objects, ensuring minimal interference with non-object regions. Customizable parameters like the number of neighbors and window size allow for fine-tuning the detection accuracy. The project supports real-time video and image-based classification, making it versatile for various applications.</p>
 
 <h2>Key Features</h2>
 <ul>
