@@ -30,4 +30,4 @@
 <h2>Example Output</h2>
 <p>Below is an example of the output after running the KNN object detection:</p>
 
-<img src="output_image.png" alt="Output Image" width="600">
+<img src="images/Output Result.png" alt="Output Image" width="600">
