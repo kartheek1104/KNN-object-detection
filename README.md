@@ -22,9 +22,9 @@
 
 <h2>Installation</h2>
 <ul>
-  <li>Clone the repository: <code>git clone https://github.com/yourusername/knn-object-detection.git</code></li>
-  <li>Install dependencies: <code>pip install -r requirements.txt</code></li>
-  <li>Run the detection: <code>python knn_detection.py</code></li>
+  <li>Clone the repository: <code>git clone https://github.com/kartheek1104/KNN-object-detection.git</code></li>
+  <li>Change the location of the dataset in the "training.py"</li>
+  <li>After training the model open "detection.py" and make sure to change model location before executing</li>
 </ul>
 
 <h2>Example Output</h2>
